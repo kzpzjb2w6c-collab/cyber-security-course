@@ -31,7 +31,6 @@
 # What are the open questions?
 
 * How should service providers integrate cyber risk management practices in a framework that connects business, policy, and technological perspectives?
-* How should service providers shift their focus from compliance to action?
 * How should service providers identify areas that require further development as new threats emerge?
 * How to manage trust when outsourcing severs the connection between the data owner and their data?
 
